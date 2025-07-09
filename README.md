@@ -25,7 +25,9 @@ cd workshop-springboot-mongodb
 ```
 
 2. Configure o MongoDB no application.properties:
+
 spring.data.mongodb.uri=mongodb://localhost:27017
+
 spring.data.mongodb.database=workshopmongo
 
 3. Execute o projeto
